@@ -1,1 +1,0 @@
-import{b as e}from"./route-block-B_A1xBdJ.js";import{_ as c,q as n,s as t}from"./index-B4uGpv5R.js";const o={};function r(s,f){return n(),t("div",null,"登陆页面")}typeof e=="function"&&e(o);const i=c(o,[["render",r]]);export{i as default};
