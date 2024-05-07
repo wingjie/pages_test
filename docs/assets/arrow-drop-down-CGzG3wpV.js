@@ -1,1 +1,0 @@
-import{q as e,s as o,t}from"./index-DVT_I5Yj.js";const n={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},s=t("path",{fill:"currentColor",d:"m12 15l-5-5h10z"},null,-1),r=[s];function c(a,_){return e(),o("svg",n,[...r])}const i={name:"material-symbols-arrow-drop-down",render:c};export{i as _};
